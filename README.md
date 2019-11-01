@@ -7,6 +7,4 @@
 Semih Aktürk (Back-End)
 <h4>Front-End :</h4>
 Ayşegül Keleş<br>
-<a href="https://github.com/senertaner"> Taner Şener (Frontend) </a><br>
-
-<br>
+<a href="https://github.com/senertaner"> Taner Şener (Frontend) </a>
