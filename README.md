@@ -1,6 +1,6 @@
 # Web-Music
 
-<h3>İstanbul Üniversitesi Bligisayar Mühendisliği Programming Application Proje Ödevi</h3>
+<h3>İstanbul Üniversitesi Bilgisayar Mühendisliği Programming Application Proje Ödevi</h3>
 
 <h4>Back-End :</h4>
 <a href="https://github.com/AlicanBen"> Ali Can Ben (Back-End - Database) </a><br>
